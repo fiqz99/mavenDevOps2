@@ -1,5 +1,3 @@
 # maven-jenkins
 
-Some description
-Please work
-Please 2
+complete CI/CD pipeline
