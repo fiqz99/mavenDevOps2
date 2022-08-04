@@ -1,3 +1,3 @@
 # maven-jenkins
 
-complete CI/CD pipeline
+complete CI/CD pipeline for our project
